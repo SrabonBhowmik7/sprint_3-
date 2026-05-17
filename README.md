@@ -22,7 +22,8 @@ sudo apt install swaks -y
 Verify with:
 swaks --version
 Run on: UbuntuServer (192.168.1.80)
- 
+<img width="975" height="908" alt="image" src="https://github.com/user-attachments/assets/66042be9-6c65-45fe-a930-c89e5e0294a5" />
+
 
 
 Step 2 — Verify Postfix is running
